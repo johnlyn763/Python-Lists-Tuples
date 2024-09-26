@@ -1,0 +1,16 @@
+colors = ["red", "green", "blue", 5,"yellow"]
+print(colors)
+
+person = ("Jane Doe", 25, "Python Developer", "Canada")
+print(person)
+
+digits = list(range(10))
+print(digits)
+
+even_digits = [number for number in range(1, 10) if not number % 2]
+print(even_digits)
+
+print(["Pythonista", 7, False, 3.14159])
+print(("Pythonista", 7, False, 3.14159))
+
+
